@@ -42,4 +42,4 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
